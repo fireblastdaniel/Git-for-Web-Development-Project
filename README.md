@@ -35,8 +35,12 @@ Stretch Review questions:
 Stretch Git Tasks
 - [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
   - [ ] Research and understand what a `merge conflict` is and how to resolve it.
+    https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
   - [ ] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
+    https://git-scm.com/docs/git-pull
   - [ ] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made.
+    https://www.atlassian.com/git/tutorials/undoing-changes
+    
 
 - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
 
